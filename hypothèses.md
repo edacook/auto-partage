@@ -40,6 +40,7 @@ Questions de relance :
 - est ce que vous utilisez le vélo pour ce type de déplacement ? Pourquoi ? 
 - est ce que vous avez fait partie des personnes qui ont contacté Gabriel/La Mairie ? Pourquoi vous en avez eu besoin ?
 - comment ils se sont rencontrés/réunis ?
+- à quel point vous vous sentez impliqué.e dans ce projet ? A quel point vous pensez vous y impliquer ? 
 - pourquoi vous n'avez pas recours à un service clés en main ? 
 
 (Problèmes liés à la solution.
