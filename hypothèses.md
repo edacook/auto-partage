@@ -24,33 +24,43 @@ Liste de contacts de Gabriel.
 
 ### Utilisateurs
 
-Commencer par la personne qui a contacté Gabriel ? Quel était son problème ? 
-
-Comment il a constitué la liste ?
-
-Comment ils sont entré en contact ?
-
-Pourquoi ils ne partagent pas directement leur voiture ?
+La liste de Gabriel
 
 ### Top 3 roblèmes
 
-- 
+Pourquoi l'autopartage ? 
+
+- L'achat, l'assurance et l'entretien coûte trop cher,
+- Un deuxième vehicule représente une polution suplémentaire (ou une polution que je peux réduire) 
+- Ponctuelllement mon vehicule ne me suffit pas
+
+Questions de relance :
+
+- est ce que vous avez déjà essayé de partager un vehicule avec vos voisins/amis du quartier ? Ce s'est passé comment ?
+- est ce que vous utilisez le vélo pour ce type de déplacement ? Pourquoi ? 
+- est ce que vous avez fait partie des personnes qui ont contacté Gabriel/La Mairie ? Pourquoi vous en avez eu besoin ?
+- comment ils se sont rencontrés/réunis ?
+- pourquoi vous n'avez pas recours à un service clés en main ? 
+
+(Problèmes liés à la solution.
+
 - assurance ? 
 - propriété privée, tension de voisinage ? 
 - entretien, répartition du travail ?
 - planning, réservation, priorité ? 
 - passation de la clef
-- questions financières : partage des coûts mais aussi participation de chacun.e
+- questions financières : partage des coûts mais aussi participation de chacun.e)
+
+### Alternatives 
+
+- vélo/vélo électrique
+- deuxième vehicule
+- partage entres voisins
+- concurents ? Drivy ?
 
 ### Proposition de valeur
 
 ??? 
-
-### Alternatives
-
-Pourquoi les alternatives ne sont pas suffisantes.
-
-#### 
 
 ## A faire 
 - demander si on contacte les non-répondants ?
