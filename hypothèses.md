@@ -26,6 +26,16 @@ Liste de contacts de Gabriel.
 
 La liste de Gabriel
 
+### Données pour qualifier
+
+- Composition du foyer
+- Modes de transport utilisés au quotidien
+- Nombre de voitures du foyer
+- est-ce que les adultes travaillent et vont au travail en voiture ?
+- distance domicile-travail
+- rapport au numérique, possession d'un smartphone
+- quartier où ils vivent
+
 ### Top 3 roblèmes
 
 Pourquoi l'autopartage ? 
