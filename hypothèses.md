@@ -35,6 +35,7 @@ La liste de Gabriel
 - distance domicile-travail
 - rapport au numérique, possession d'un smartphone
 - quartier où ils vivent
+- comment et où ils font leurs courses ?
 
 ### Top 3 roblèmes
 
