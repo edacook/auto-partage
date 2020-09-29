@@ -9,5 +9,5 @@ Nous cherchons à répondre à un collectif de citoyen.ne.s d'une commune de l'a
 ### Un entretien finit
 
 - déposé dans GH
-- 3 lignes pour higlight
+- 3 lignes pour highlight
 
