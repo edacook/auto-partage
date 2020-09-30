@@ -30,9 +30,8 @@ Nous cherchons à répondre à un collectif de citoyen.ne.s de la commune de Mao
 
 ## Ressources
 
-Questionnaire vélo sur la commune
-
-[📚 Wiki La Fabrique des Mobilités](https://wiki.lafabriquedesmobilites.fr/wiki/Autopartage_entre_voisins)
+- Questionnaire vélo sur la commune
+- [📚 Wiki La Fabrique des Mobilités](https://wiki.lafabriquedesmobilites.fr/wiki/Autopartage_entre_voisins)
 
 ## Partenaires
 
