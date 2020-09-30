@@ -11,15 +11,15 @@ L'asso Choisir Vélo.
 
 ## Equipe
 
-Gabriel : Intra
-Sabine et Elie : Coach
+- Gabriel : Intra
+- Sabine et Elie : Coach
 
 ### Rythme Gabriel
 
-RDV tous les mardi à 12h
-Une demi journée tous les 15 jours, réunions citoyennes
-Réunions de préparation en amont
-Dispo pour des entretiens utilisateurs
+- RDV tous les mardi à 12h
+- Une demi journée tous les 15 jours, réunions citoyennes
+- Réunions de préparation en amont
+- Dispo pour des entretiens utilisateurs
 
 ## DOD :
 
