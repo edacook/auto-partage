@@ -36,8 +36,8 @@ Questionnaire vélo sur la commune
 
 ## Partenaires
 
-Mairie Maons-Sartoux
-ANCT
-La Fabrique Des Mobilités
-Fondation Michelin
-Ecole en création (Post BAC). Projet étudiant.
+- Mairie Maons-Sartoux
+- ANCT
+- La Fabrique Des Mobilités
+- Fondation Michelin
+- Ecole en création (Post BAC). Projet étudiant.
