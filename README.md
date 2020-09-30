@@ -6,8 +6,8 @@ Nous cherchons à répondre à un collectif de citoyen.ne.s de la commune de Mao
 
 ## Premiers utilisateurs potentiels 
 
-La dizaine de voisins qui souhaitent changer leurs usages.
-L'asso Choisir Vélo. 
+- La dizaine de voisins qui souhaitent changer leurs usages.
+- L'asso Choisir Vélo. 
 
 ## Equipe
 
