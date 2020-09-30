@@ -31,11 +31,12 @@ Dispo pour des entretiens utilisateurs
 ## Ressources
 
 Questionnaire vélo sur la commune
-
+[📚 Wiki La Fabrique des Mobilités](https://wiki.lafabriquedesmobilites.fr/wiki/Autopartage_entre_voisins)
 
 ## Partenaires
 
 Mairie Maons-Sartoux
 ANCT
+La Fabrique Des Mobilités
 Fondation Michelin
 Ecole en création (Post BAC). Projet étudiant.
