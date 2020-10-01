@@ -1,4 +1,15 @@
-### Données pour qualifier
+# Entretien probléme WC 01/10/20
+
+## Résumé
+
+## Déroulé
+- accueil
+- histoire
+- top 3 problèmes
+- écoute et relance
+- contact
+
+## Données pour qualifier
 
 - Composition du foyer
 - Modes de transport utilisés au quotidien
@@ -9,7 +20,7 @@
 - quartier où ils vivent
 - comment et où ils font leurs courses ?
 
-### Top 3 roblèmes
+## Top 3 roblèmes
 
 Pourquoi l'autopartage ? 
 
@@ -17,7 +28,7 @@ Pourquoi l'autopartage ?
 - Un deuxième vehicule représente une polution suplémentaire (ou une polution que je peux réduire) 
 - Ponctuelllement mon vehicule ne me suffit pas
 
-Questions de relance :
+## Questions de relance
 
 - est ce que vous avez déjà essayé de partager un vehicule avec vos voisins/amis du quartier ? Ce s'est passé comment ?
 - est ce que vous utilisez le vélo pour ce type de déplacement ? Pourquoi ? 
@@ -25,3 +36,5 @@ Questions de relance :
 - comment ils se sont rencontrés/réunis ?
 - à quel point vous vous sentez impliqué.e dans ce projet ? A quel point vous pensez vous y impliquer ? 
 - pourquoi vous n'avez pas recours à un service clés en main ? 
+
+## Recontacter ? 
