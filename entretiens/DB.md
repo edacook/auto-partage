@@ -2,11 +2,11 @@
 
 ## Résumé
 
-Pas impliquée dans le projet.
-A surtout besoin d'un vehicule pour les trajets domicile-travail.
-Se débrouille bien sans deuxième vehicule mais pense acheter car le petit grandit. 
-Pas intéressée par l'idée d'acheter un vehicule en commun. Un abonnement pourquoi pas. 
-Transport en commun innadaptés et bouchons. 
+- Pas impliquée dans le projet.
+- A surtout besoin d'un vehicule pour les trajets domicile-travail.
+- Se débrouille bien sans deuxième vehicule mais pense acheter car le petit grandit. 
+- Pas intéressée par l'idée d'acheter un vehicule en commun. Un abonnement pourquoi pas. 
+- Transport en commun innadaptés et bouchons. 
 
 ## Déroulé
 - accueil
@@ -17,21 +17,21 @@ Transport en commun innadaptés et bouchons.
 
 ## Données pour qualifier
 
-- Composition du foyer
+- Composition du foyer :
 3, couple plus un fils
-- Modes de transport utilisés au quotidien
+- Modes de transport utilisés au quotidien :
 La voiture de la famille. Départ 07h30.
-- Nombre de voitures du foyer
+- Nombre de voitures du foyer :
 1
-- est-ce que les adultes travaillent et vont au travail en voiture ?
+- est-ce que les adultes travaillent et vont au travail en voiture ? :
 En partageant le vehicule
-- distance domicile-travail
+- distance domicile-travail :
 1h30 en bus 30min 40min en voiture
-- rapport au numérique, possession d'un smartphone
+- rapport au numérique, possession d'un smartphone :
 pas de smartphone, le mari a un iphone
-- quartier où ils vivent
+- quartier où ils vivent :
 Au centre (3 quartiers à Moans-Sartoux : centre, plan sarrain, et ???) 
-- comment et où ils font leurs courses ?
+- comment et où ils font leurs courses ? :
 A pied, boutiques, lidle (En plus à Moans-Sartoux, 2 marchés en journé, drive leclerc, casino, auchant)
 
 ## Top 3 roblèmes
