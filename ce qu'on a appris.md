@@ -14,6 +14,8 @@
 
 - Les petites collectivités n'ont pas les moyens financiers et/ou techniques pour entretenir une flotte et/ou mettre en relation des chauffeurs avec des passagers. La commune de Villerouge a acheté et mis à disposition un véhicule électrique, grâce à des subventions européennes. Ailleurs, les élus font plutôt part de leur volonté de favoriser l'appropriation du sujets par les habitants. Habitants qui ne l'entendent pas nécessairement de cette oreille et attendent plutôt que la collectivité prennent en charge...
 
+- Un guide assez complet a été édité par l'ADETEC, un bureau d'études spécialisé sur la mobilité, avec contrat type, modalités de gestion des frais, question des assurances etc. [Ici la première version (2013)](http://www.adetec-deplacements.com/guide-autopartage-entre-particuliers.pdf) et [là la version mise à jour par Clermont Agglo en 2017](http://www.smtc-clermont-agglo.fr/file/Telechargements/guide_pratique_de_l'autopartage_entre_particuliers_smtc.pdf) (certaines parties manquantes par rapport à l'originale).
+
 
 ## Ce qu'on a appris sur l'investigation
 
