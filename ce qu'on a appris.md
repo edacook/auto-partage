@@ -1,35 +1,60 @@
-#Ce qu'on a appris
+# Investigation beta.gouv.fr. Ce qu'on a appris
+
+## Le Contexte
+
+- beta.gouv.fr est un service de l'Etat qui accompagne des administrations pour créer des services publics numériques. Nous avons été sollicités par la commune de Mouans-Sarthoux pour travailler sur une expérimentation d'autopartage.
+
+- La commune de Mouans-Sarthoux, à la suite de réunions publiques, souhaitait faciliter la vie des habitants qui font de l'autopartage sur la commune ou veulent s'y mettre.
+
+- L'objectif : éviter l'achat d'un deuxième vehicule dans un ménage ou permettre de s'en débarasser afin de limiter le nombre de vehicules dans la commune.
+
+## La méthode
+
+- La méthode beta.gouv.fr vise à résoudre les problèmes réels des usagers, c'est à dire que "l'investigation" consiste à rencontrer des utilisat.eur.rice.s potentiel.le.s pour comprendre leur problème avant d'imaginer une solution qui y réponde.
+
+- Nous avons mené une quinzaine d'entretiens individuels avec des habitants de Mouans-Sarthoux afin de vérifier que les problèmes que nous avions identifiés étaient effectivement *leurs* problèmes (à savoir : il est difficile de faire assurer le vehicule partagé, il est dificile d'organiser un planning à plusieurs, il est dificile de se répartir les frais, la charge mentale et le travail d'entretien du vehicule).
+
+---
 
 ## Ce qu'on appris sur l'autopartage
 
-- il existent des plateformes de location de véhicule entre particuliers qui fonctionnent, mais se déploient peu sur les petites communes car ça n'est pas rentable pour elles.
+Parmi les personnes à qui nous avons parlé (environ 15 habitant.e.s de Mouans-Sarthoux):
 
-- un gros bloquage existe du côté des assurance pour en faire une pratique formelle en dehors des plateformes de location entre particuliers qui existent déjà
+- toutes étaient à priori favorable au principe de l'autopartage,
 
-- Retours de la MACIF :
-  - prêt à des personnes hors de la famille : pas de problèmes particuliers, pas besoin d’en parler à son assurance, seule la franchise est à regarder au niveau des contrats, seul le cas d’une personne “jeune” va générer des conséquences.
-  - création d’une asso
-        transfert de carte grise
-        assurance ad-hoc
-        ne pas devenir de la location de véhicule, uniquement adhésion à l’asso
-        entretien, maintenance à étudier via Michelin
-        usages quotidiens dans un rayon de 100km par exemple
+- certaines le pratiquaient de façon informelle (sans cadre associatif ou institutionnel) et elles n'avaient pas de problèmes,
 
-autopartage social, TUS
+- celle qui ne le pratiquait pas n'avaient pas le temps de l'organiser et/ou pas l'intention de partager leur véhicule. Elles cherchaient plutôt des solutions de location ponctuelles (pour les vacances ou des occasions professionnelles ou familiales) ou un service municipal de voitures en libre-service.
 
-- il est pratiqué de manière informelle, et on n'en a pas trouvé qui ont besoin d'aide sur le plan juridique ou sur le plan technique. D'une manière générale, ces personnes sont difficiles à identifier et donc nous avons pu parler avec très peu d'entre elles. Cette investigation ne nous a donc pas permis de dégager des problèmes ou absences de problèmes avec certitude.
+### Les autres apprentissages sur l'autopartages
 
-- Nous avons parlé avec une bonne dizaine de personnne qui ne pratiquent pas l'auto partage alors qu'elles sont favorable à sa généralisation. Ces personnes n'ont pas remonté de freins techniques ou juridiques, mais des freins d'ordre psychologiques ou culturels ("j'aime trop ma voiture pour la partager","c'est trop contraignant pour moi", "je pense que les auters ne sont pas respectueux" etc.).
+#### Les problèmes qu'on a vérifiés :
 
-- La collectivité comme plateforme intermédiaire est expérimentée par Clermont Agglo, qui voit une augmentation de l'usage dans le temps, à quelques dizaines d'auto partageurs au bout de 3 à 4 ans. A ce stade, le dispositif leur prend du temps (animation par un bureau d'étude spécialisé les premières années, intermédiation manuelle) et ça coute cher. Par ailleurs, il nous a été remonté que les assurances ne veulent pas reproduire ce "contrat cadre" pour flotte de collectivités (qui lui a un coût modéré dans le cas de Clermont : entre 2.000 et 5.000 euros /an pour 80 véhicules). 
+- il parait lourd et compliqué pour de nombreuses personnes d'organiser une association d'autopoartage et/ou se retrouver copropriétaire d'un véhicule avec des personnes qu'elles ne connaissent pas intimement.
 
-- Les petites collectivités n'ont pas les moyens financiers et/ou techniques pour entretenir une flotte et/ou mettre en relation des chauffeurs avec des passagers. La commune de Villerouge a acheté et mis à disposition un véhicule électrique, grâce à des subventions européennes. Ailleurs, les élus font plutôt part de leur volonté de favoriser l'appropriation du sujets par les habitants. Habitants qui ne l'entendent pas nécessairement de cette oreille et attendent plutôt que la collectivité prennent en charge...
+- les assurances ne souhaitent pas couvrir d'associations ni de collectivités spécifiquement pour une activité d'auto-partage à ce stade (novembre 2020). Un contrat de flotte est en cours avec l'agglomération de Clermont Ferrand mais ce contrat n'est plus sur le marché. Voir [le guide pratique de l'ADETEC 2013](http://www.adetec-deplacements.com/guide-autopartage-entre-particuliers.pdf).
 
-- Un guide assez complet a été édité par l'ADETEC, un bureau d'études spécialisé sur la mobilité, avec contrat type, modalités de gestion des frais, question des assurances etc. [Ici la première version (2013)](http://www.adetec-deplacements.com/guide-autopartage-entre-particuliers.pdf) et [là la version mise à jour par Clermont Agglo en 2017](http://www.smtc-clermont-agglo.fr/file/Telechargements/guide_pratique_de_l'autopartage_entre_particuliers_smtc.pdf) (certaines parties manquantes par rapport à l'originale).
+- certaines personnes sont très attachées à leur véhicule et entretiennent une relation affective et émotionnelle qui rend dificile d'envisager un partage. 
 
-- Nous souhaitions simplifier l'auto partage entre voisins pour les personnes qui le pratiquent déjà, ou qui sont très motivées pour le faire. Nous n'avons pas réussi à contacter de personnes dans ce cas. En effet, la première catégorie est difficile à identifier et à atteindre, car pratique l'auto partage de manière informelle, hors cadre, sans communiquer dessus. Atteindre la catégorie des intéressés aurait demandé beaucoup d'efforts, et certainement de s'appuyer sur des collectivités qui communiqueraient avec nous. Or ces efforts nous semblent disproportionnés dans le cadre d'une investigation, où nous souhaitons confirmer (infirmer) l'existence d'un problème pré-supposé et d'une solution à créer.
+#### Les bonnes nouvelles : 
 
+- du point de vue des assureurs, il n'existe aucun problème pour prêter son vehicule à une connaissance proche
 
+- [le guide pratique de l'ADETEC 2013](http://www.adetec-deplacements.com/guide-autopartage-entre-particuliers.pdf) propose déjà un contrat-type, des modes de partage des frais etc.
+
+- il existe des plateformes de location de véhicule entre particuliers qui fonctionnent, mais elles ne font pas d'efforts pour acquérir des utilisat.eur.rice.s sur les petites communes car ça n'est pas rentable pour elles.
+
+- les personnepratique l'autopartage de façon informelle sont peu disponible pour en parler. On dirait qu'ils n'ont pas besoin d'aide ! 
+
+#### Les moins bonnes nouvelles : 
+
+- les collectivités qui expérimentent l'autopartage doivent consacrer beaucoup de temps à animer le réseaux (mettre en relation les utilisat.eur.rice.s)
+
+- pour l'agglomération de Clermont Ferrand, à ce stade, le coût par kilomettre-usager déplacé s'élève à 3,2€. C'est très élevé. Peut être que ce coût est dû à l'amorçage du projet et se résorbera plus tard. 
+
+- les échanges avec Clermont Agglo et Solon (Montréal, Canada) faisait apparaître un usage del'aupartage en zone urbaines ou péri-urbaines, en complément des réseaux de transport en commun. Il n'est pas évident que ça peut fonctionner en zone peu dense, sauf à très petite échelle (à 2 ou 3 familles)
+
+---
 
 ## Ce qu'on a appris sur l'investigation
 
